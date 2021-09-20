@@ -1,1 +1,10 @@
-{"version":3,"sourceRoot":"","sources":["partials/_variables.scss","main.scss"],"names":[],"mappings":"AAAQ;ACER;EACE,aDFa;;;ACKf;EACE,ODLc","file":"main.css"}
+{
+    "version": 3,
+    "mappings": "ACAA,OAAO,CAAC,mEAAI;ADEZ,AAAA,IAAI,CAAC;EACH,WAAW,ECFE,QAAQ,EAAE,UAAU;CDGlC;;AAED,AAAA,EAAE,CAAC;EACD,KAAK,ECLS,GAAG;CDMlB",
+    "sources": [
+        "main.scss",
+        "partials/_variables.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
